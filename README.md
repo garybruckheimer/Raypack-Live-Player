@@ -1,7 +1,7 @@
 # Raypack-Live-Player
 ======
            
-Raypack Player is HTML based Videoplayer.
+Raypack® Player is HTML based Videoplayer.
 
 Features
 --------
